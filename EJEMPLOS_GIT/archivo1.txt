@@ -1,3 +1,5 @@
 añadiendo unas líneas 
 para verlo
 en GitHub
+Estas otras líneas
+se añaden desde GitHub
