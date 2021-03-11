@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 version1_1
+=======
+version1_2
+>>>>>>> otra_rama
 version2
 este archivo de versiones esta en otra rama
