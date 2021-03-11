@@ -1,4 +1,8 @@
 version1
+<<<<<<< HEAD
 version2
 version3
 version4
+=======
+version2
+>>>>>>> parent of dc18608... tercera confirmacion
